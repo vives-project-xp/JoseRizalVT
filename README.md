@@ -10,8 +10,6 @@ José Rizal, Filipijns nationaal held, verbleef in de late 19e eeuw een periode 
 
 # JOSERIZALVT – Project Structure
 
-# JOSERIZALVT – Project Structure
-
 ```
 JOSERIZALVT/
 ├── .github/                  # GitHub configuratie & Copilot instructies
