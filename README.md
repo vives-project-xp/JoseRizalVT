@@ -6,8 +6,6 @@ Dit project ontwikkelt een digitale, interactieve ervaring rond de bestaande Jos
 
 José Rizal, Filipijns nationaal held, verbleef in de late 19e eeuw een periode in Gent, waar hij sporen naliet via gebouwen waar hij woonde, studeerde en werkte.Deze historische band vormt een culturele brug tussen Gent en de Filipijnen en biedt kansen voor educatie, erfgoedbeleving en samenwerking tussen hogescholen.
 
-## Github structuur 
-
 # JOSERIZALVT – Project Structure
 
 ```
