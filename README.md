@@ -6,6 +6,50 @@ Dit project ontwikkelt een digitale, interactieve ervaring rond de bestaande Jos
 
 José Rizal, Filipijns nationaal held, verbleef in de late 19e eeuw een periode in Gent, waar hij sporen naliet via gebouwen waar hij woonde, studeerde en werkte.Deze historische band vormt een culturele brug tussen Gent en de Filipijnen en biedt kansen voor educatie, erfgoedbeleving en samenwerking tussen hogescholen.
 
+## Github structuur 
+
+# JOSERIZALVT – Project Structure
+
+# JOSERIZALVT – Project Structure
+
+```
+JOSERIZALVT/
+├── .github/                  # GitHub configuratie & Copilot instructies
+│   └── copilot-instructions.md
+├── Games/                    # Educatieve game voor Filipijnse jeugd
+│   ├── InkedGame.md
+│   └── InkedGame.png
+├── Media/                    # Alle multimedia-assets voor de virtuele tour
+│   ├── 3D-model/             # 3D-modellen, animaties & renders van José Rizal
+│   │   ├── JR_Explaining_no_BG.png
+│   │   ├── JR_Idle.glb
+│   │   ├── JR_Sitting_Explaining_no_BG.png
+│   │   ├── JR_Sitting_Explaining_no_BGlong.png
+│   │   ├── JR_Sitting_no_BG.png
+│   │   ├── JR_Standing_no_BG.png
+│   │   ├── JR_Talk.glb
+│   │   ├── JR_Talking.mp4
+│   │   ├── JR_Walk.glb
+│   │   └── JR_Walking.mp4
+│   ├── IMG_0146.jpeg
+│   ├── IMG_0147.jpeg
+│   ├── IMG_0148.jpeg
+│   ├── IMG_0154.jpeg
+│   ├── Introductie Poster José Rizal (1).png
+│   └── projectCanvas.png
+├── Thinglink/                # Interactieve tour content via Thinglink
+│   ├── GamesThinglink/       # Thinglink-assets specifiek voor de game
+│   │   ├── GamesThinglink.md
+│   │   ├── keuzeLabel.png
+│   │   ├── makenButton.png
+│   │   ├── MemoryGame.png
+│   │   ├── PuzzleGame.png
+│   │   └── TimelineGame.png
+│   └── Verbindingschema-fotos.jpg    
+└── README.md
+```
+
+
 ## Doel van het project
 
 - Omzetten van de fysieke José Rizal stadswandeling in Gent naar een volledig gevirtualiseerde tour die zowel op locatie als op afstand beleefd kan worden. 
