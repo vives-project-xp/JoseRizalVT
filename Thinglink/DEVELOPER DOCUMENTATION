@@ -1,0 +1,69 @@
+DEVELOPER DOCUMENTATION (Technical Guide)
+Project Overview
+This project digitizes the José Rizal Guided Walk into an interactive virtual tour using multimedia, 3D assets, and web-based tools.
+
+Technologies Used
+•	Thinglink (interactive platform)
+•	GitHub (version control)
+•	360° camera (image capture)
+•	3D assets (GLB, PNG, MP4)
+
+Project Structure
+JOSERIZALVT/
+├── .github/
+├── Games/
+├── Media/
+│ ├── 3D-model/
+├── Thinglink/
+└── README.md
+
+Asset Management
+•	3D models stored in Media/3D-model/
+•	Images and videos stored in Media/
+•	Game-related assets stored in Games/ and Thinglink/GamesThinglink/
+
+How to Update the Virtual Tour (Thinglink)
+1.	Upload 360° images to Thinglink
+2.	Add hotspots to scenes
+3.	Link hotspots to:
+o	Text
+o	Audio
+o	Video
+o	External content
+4.	Save and publish updates
+
+Adding New Content
+•	Add new images to Media/
+•	Add 3D assets if needed
+•	Update documentation files
+•	Maintain consistent naming conventions
+
+Game Development
+•	Game concepts defined in Games/InkedGame.md
+•	Assets stored in related folders
+•	Integration handled via Thinglink or external tools
+
+Collaboration Workflow
+•	Version control via GitHub
+•	Clear folder structure for assets
+•	Regular updates and commits
+•	Communication with international partners
+
+Deployment
+•	Hosted via Thinglink platform
+•	Accessible via web browser
+•	No backend deployment required
+
+Future Improvements
+•	Add full VR support
+•	Expand game logic
+•	Integrate AI-based storytelling
+
+Maintenance Guidelines
+•	Keep assets organized
+•	Optimize media for performance
+•	Regularly test compatibility (mobile & desktop)
+•	Ensure historical and cultural accuracy
+
+Product Owner
+Pedro Calleeuw
