@@ -1,56 +1,82 @@
-DEVELOPER DOCUMENTATION (Technical Guide)
-Project Overview
-This project digitizes the José Rizal Guided Walk into an interactive virtual tour using multimedia, 3D assets, and web-based tools.
+# DEVELOPER DOCUMENTATION (Technical Guide)
 
-Technologies Used
-•	Thinglink (interactive platform)
-•	GitHub (version control)
-•	360° camera (image capture)
-•	3D renders (PNG, MP4)
+## 📌 Project Overview
+This project digitizes the **José Rizal Guided Walk** into an interactive virtual tour using multimedia, 3D assets, and web-based tools.
 
-Asset Management
-•	3D renders stored in Media/3D-model/
-•	Images and videos stored in Media/
-•	Game-related assets stored in Games/ and Thinglink/GamesThinglink/
+### Technologies Used
+*   **Thinglink:** Interactive platform for the virtual experience.
+*   **GitHub:** Version control for documentation and asset tracking.
+*   **360° Camera:** Used for high-quality environmental image capture.
+*   **3D Renders:** Integration of PNG and MP4 assets.
 
-How to Update the Virtual Tour (Thinglink)
-1.	Upload 360° images to Thinglink
-2.	Add tags to scenes
-3.	Link tags to:
-o	Text
-o	Audio
-o	Video
-o	External content
-4.	Save and publish updates
+---
 
-Adding New Content
-•	Add new images to Media/
-•	Add 3D renders if needed
-•	Update documentation files
-•	Maintain consistent naming conventions
+## 📂 Asset Management
+The project assets are organized as follows:
 
-Game Development
-•	Game concepts defined in Games/InkedGame.md
-•	Assets stored in related folders if needed
-•	Integration handled via Thinglink
+| Asset Type | Directory |
+| :--- | :--- |
+| **3D Renders** | `Media/3D-model/` |
+| **Images & Videos** | `Media/` |
+| **Game Assets** | `Games/` and `Thinglink/GamesThinglink/` |
 
-Collaboration Workflow
-•	Clear folder structure for assets
-•	Communication with international partners
+---
 
-Deployment
-•	Hosted via Thinglink platform
-•	Accessible via web browser
-•	No backend deployment required
+## 🛠 How to Update the Virtual Tour
+1.  **Upload:** Add 360° images to the Thinglink platform.
+2.  **Tagging:** Add interactive tags to the scenes.
+3.  **Linking:** Connect tags to Text, Audio, Video, or External content.
+4.  **Publish:** Save changes and publish updates to the live tour.
 
-Future Improvements
-•	Integrate AI-based storytelling (video)
+---
 
-Maintenance Guidelines
-•	Keep assets organized
-•	Optimize media for performance
-•	Regularly test compatibility (mobile & desktop)
-•	Ensure historical and cultural accuracy
+## 🚀 Casting & VR Integration
+This project supports group viewing via the Google TV Streamer and immersive experiences using the Meta Quest 3.
 
-Product Owner
-Pedro Calleeuw
+### 1. Google TV Streamer (External Display)
+To display the tour on a large screen for presentations:
+*   **Network:** Ensure the Google TV Streamer is connected to the same internet network (Wi-Fi) as the source device.
+
+### 2. Meta Quest 3 (Immersive VR)
+To experience the tour in full 360° directly in the headset:
+*   **Network:** The headset must be on the same internet network as the other devices.
+*   **Activation via Shortcode:**
+    1.  Launch the **Thinglink App** (set as default) or the browser on the Meta Quest 3.
+    2.  When prompted, enter the **Shortcode** (found in the 'Publish/Share' settings on the Thinglink website).
+    3.  Once the tour loads, click the **VR icon** to enter WebXR mode.
+
+### 3. Mirroring: VR to TV
+To stream the Meta Quest 3 view to the TV so others can follow along:
+
+1.  **Open Quick Settings:** 
+    *   Press the **Oculus/Meta button** on your right controller to bring up the universal menu.
+    *   Click on the **Clock/Battery area** (left side of the menu bar) to open the **Quick Settings** panel.
+2.  **Select Casting:** 
+    *   Locate and click the **Casting** icon (represented by a VR headset with transmission waves).
+3.  **Choose Target Device:** 
+    *   From the list of available devices, select: **"Tv in Kantoor"**.
+4.  **Establish Connection:** 
+    *   Wait a few moments for the connection to synchronize. The VR view will then appear live on the TV screen.
+
+> [!NOTE]
+> If "Tv in Kantoor" does not appear, double-check that the Google TV Streamer is awake and on the same Wi-Fi network as the headset.
+
+---
+
+## 📈 Future Improvements & Maintenance
+### Future Goals
+*   Integrate AI-based storytelling (video).
+*   Expand 3D asset library for deeper immersion.
+
+### Maintenance Guidelines
+> [!IMPORTANT]
+> Always optimize media files (compression) before uploading to ensure high performance on mobile and VR devices.
+
+*   **Organization:** Keep all assets sorted in their respective folders.
+*   **Compatibility:** Regularly test the tour on both mobile and desktop.
+*   **Accuracy:** Ensure all content maintains historical and cultural accuracy.
+
+---
+
+**Product Owner**  
+_Pedro Calleeuw_
