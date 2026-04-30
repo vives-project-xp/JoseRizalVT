@@ -1,4 +1,4 @@
-#USER DOCUMENTATION (User Guide)
+# USER DOCUMENTATION (User Guide)
 Introduction
 The José Rizal Virtual Experience Gent is an interactive digital tour that allows users to explore the historical presence of José Rizal in Ghent. The experience combines storytelling, multimedia, and interactive elements to make learning engaging and accessible.
 
