@@ -6,26 +6,17 @@ Technologies Used
 •	Thinglink (interactive platform)
 •	GitHub (version control)
 •	360° camera (image capture)
-•	3D assets (GLB, PNG, MP4)
-
-Project Structure
-JOSERIZALVT/
-├── .github/
-├── Games/
-├── Media/
-│ ├── 3D-model/
-├── Thinglink/
-└── README.md
+•	3D renders (PNG, MP4)
 
 Asset Management
-•	3D models stored in Media/3D-model/
+•	3D renders stored in Media/3D-model/
 •	Images and videos stored in Media/
 •	Game-related assets stored in Games/ and Thinglink/GamesThinglink/
 
 How to Update the Virtual Tour (Thinglink)
 1.	Upload 360° images to Thinglink
-2.	Add hotspots to scenes
-3.	Link hotspots to:
+2.	Add tags to scenes
+3.	Link tags to:
 o	Text
 o	Audio
 o	Video
@@ -34,19 +25,17 @@ o	External content
 
 Adding New Content
 •	Add new images to Media/
-•	Add 3D assets if needed
+•	Add 3D renders if needed
 •	Update documentation files
 •	Maintain consistent naming conventions
 
 Game Development
 •	Game concepts defined in Games/InkedGame.md
-•	Assets stored in related folders
-•	Integration handled via Thinglink or external tools
+•	Assets stored in related folders if needed
+•	Integration handled via Thinglink
 
 Collaboration Workflow
-•	Version control via GitHub
 •	Clear folder structure for assets
-•	Regular updates and commits
 •	Communication with international partners
 
 Deployment
@@ -55,9 +44,7 @@ Deployment
 •	No backend deployment required
 
 Future Improvements
-•	Add full VR support
-•	Expand game logic
-•	Integrate AI-based storytelling
+•	Integrate AI-based storytelling (video)
 
 Maintenance Guidelines
 •	Keep assets organized
