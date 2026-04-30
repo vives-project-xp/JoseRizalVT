@@ -4,7 +4,7 @@ The José Rizal Virtual Experience Gent is an interactive digital tour that allo
 
 # How to Access the Experience
 •	Open the tour via a web browser (desktop or mobile)
-•	Optional: use VR mode if available
+• Optional: use VR mode if available
 o method 1: Using the Thinglink app, if installed on VR headset 
    o 1. Open the app
    o 2. A menu will appear, press the 'shortcode' button
