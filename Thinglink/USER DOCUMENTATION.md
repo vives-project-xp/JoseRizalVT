@@ -1,10 +1,10 @@
-#USER DOCUMENTATION (User Guide)
+# USER DOCUMENTATION (User Guide)
 Introduction
 The José Rizal Virtual Experience Gent is an interactive digital tour that allows users to explore the historical presence of José Rizal in Ghent. The experience combines storytelling, multimedia, and interactive elements to make learning engaging and accessible.
 
 # How to Access the Experience
 •	Open the tour via a web browser (desktop or mobile)
-•	Optional: use VR mode if available
+• Optional: use VR mode if available
 o method 1: Using the Thinglink app, if installed on VR headset 
    o 1. Open the app
    o 2. A menu will appear, press the 'shortcode' button
