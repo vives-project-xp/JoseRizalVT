@@ -22,7 +22,7 @@ The project assets are organized as follows:
 
 ---
 
-## 🛠 How to Update the Virtual Tour
+##  How to Update the Virtual Tour
 1.  **Upload:** Add 360° images to the Thinglink platform.
 2.  **Tagging:** Add interactive tags to the scenes.
 3.  **Linking:** Connect tags to Text, Audio, Video, or External content.
