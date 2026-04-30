@@ -27,6 +27,7 @@ JOSERIZALVT/
 │   │   ├── JR_Talking.mp4
 │   │   ├── JR_Walk.glb
 │   │   └── JR_Walking.mp4
+│   ├── VR-screenshots/       # VR-screenshots van de virtuele tour
 │   ├── IMG_0146.jpeg
 │   ├── IMG_0147.jpeg
 │   ├── IMG_0148.jpeg
@@ -34,6 +35,8 @@ JOSERIZALVT/
 │   ├── Introductie Poster José Rizal (1).png
 │   └── projectCanvas.png
 ├── Thinglink/                # Interactieve tour content via Thinglink
+│   ├── DEVELOPER DOCUMENTATION.md
+│   ├── USER DOCUMENTATION.md
 │   ├── GamesThinglink/       # Thinglink-assets specifiek voor de game
 │   │   ├── GamesThinglink.md
 │   │   ├── keuzeLabel.png
