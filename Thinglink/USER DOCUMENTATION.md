@@ -20,30 +20,36 @@ The José Rizal Virtual Experience Gent is an interactive digital tour that allo
 https://www.thinglink.com/video/2083591878317441892
 
 # Navigation Instructions
-•	Click or tap on the screen to look around (360° view)
-•	Use arrows or navigation points to move between locations
-•	Click on tags to interact with content
+
+- Click or tap on the screen to look around (360° view)
+- Use arrows or navigation points to move between locations
+- Click on tags to interact with content
 
 # Interactive Features
-•	Tags: Provide text, images, audio, or video
-•	Mini-games: Memory, puzzles, and quizzes
-•	Storytelling: Learn about José Rizal’s life and decisions
+
+- **Tags:** Provide text, images, audio, or video
+- **Mini-games:** Memory, puzzles, and quizzes
+- **Storytelling:** Learn about José Rizal's life and decisions
 
 # Educational Game
-•	Designed for young users
-•	Includes:
-o	Memory games
-o	Puzzle challenges
-o	Timeline activities
-•	Goal: Learn while playing
+
+- Designed for young users
+- **Includes:**
+  - Memory games
+  - Puzzle challenges
+  - Timeline activities
+- **Goal:** Learn while playing
 
 # Tips for Best Experience
-•	Use a stable internet connection
-•	Explore all tags for full understanding
+
+- Use a stable internet connection
+- Explore all tags for full understanding
 
 # Support
+
 If something does not work:
-•	Refresh the page
-•	Try another browser
-•	Contact your instructor or project team 
+
+- Refresh the page
+- Try another browser
+- Contact your instructor or project team 
  
