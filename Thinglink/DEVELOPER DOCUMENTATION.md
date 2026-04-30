@@ -80,8 +80,6 @@ To stream the Meta Quest 3 view to the TV so others can follow along:
 *   Expand 3D asset library for deeper immersion.
 
 ### Maintenance Guidelines
-> [!IMPORTANT]
-> Always optimize media files (compression) before uploading to ensure high performance on mobile and VR devices.
 
 *   **Organization:** Keep all assets sorted in their respective folders.
 *   **Compatibility:** Regularly test the tour on both mobile and desktop.
