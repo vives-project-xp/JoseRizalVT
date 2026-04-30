@@ -1,6 +1,6 @@
 # DEVELOPER DOCUMENTATION (Technical Guide)
 
-## 📌 Project Overview
+##  Project Overview
 This project digitizes the **José Rizal Guided Walk** into an interactive virtual tour using multimedia, 3D assets, and web-based tools.
 
 ### Technologies Used
@@ -11,7 +11,7 @@ This project digitizes the **José Rizal Guided Walk** into an interactive virtu
 
 ---
 
-## 📂 Asset Management
+##  Asset Management
 The project assets are organized as follows:
 
 | Asset Type | Directory |
@@ -30,7 +30,7 @@ The project assets are organized as follows:
 
 ---
 
-## 🚀 Casting & VR Integration
+##  Casting & VR Integration
 This project supports group viewing via the Google TV Streamer and immersive experiences using the Meta Quest 3.
 
 ### 1. Google TV Streamer (External Display)
@@ -39,31 +39,42 @@ To display the tour on a large screen for presentations:
 
 ### 2. Meta Quest 3 (Immersive VR)
 To experience the tour in full 360° directly in the headset:
-*   **Network:** The headset must be on the same internet network as the other devices.
-*   **Activation via Shortcode:**
-    1.  Launch the **Thinglink App** (set as default) or the browser on the Meta Quest 3.
-    2.  When prompted, enter the **Shortcode** (found in the 'Publish/Share' settings on the Thinglink website).
-    3.  Once the tour loads, click the **VR icon** to enter WebXR mode.
+*   **Network:**
+ The headset must be on the same internet network as the other devices.
+*   **Activation via Shortcode:** 
+    
+    1.  Launch the **Thinglink App** (set as default) or the browser on the Meta Quest 3.
+    
+    2.  When prompted, enter the **Shortcode** (found in the 'Publish/Share' settings on the Thinglink website).
+
+    3.  Once the tour loads, click the **VR icon** to enter WebXR mode.
 
 ### 3. Mirroring: VR to TV
 To stream the Meta Quest 3 view to the TV so others can follow along:
 
 1.  **Open Quick Settings:** 
-    *   Press the **Oculus/Meta button** on your right controller to bring up the universal menu.
-    *   Click on the **Clock/Battery area** (left side of the menu bar) to open the **Quick Settings** panel.
+
+*   Press the **Oculus/Meta button** on your right controller to bring up the universal menu.
+*   Click on the **Clock/Battery area** (left side of the menu bar) to open the **Quick Settings** panel.
+
 2.  **Select Casting:** 
-    *   Locate and click the **Casting** icon (represented by a VR headset with transmission waves).
+
+*   Locate and click the **Casting** icon (represented by a VR headset with transmission waves).
+
 3.  **Choose Target Device:** 
-    *   From the list of available devices, select: **"Tv in Kantoor"**.
+
+*   From the list of available devices, select: **"Tv in Kantoor"**.
+
 4.  **Establish Connection:** 
-    *   Wait a few moments for the connection to synchronize. The VR view will then appear live on the TV screen.
+
+*   Wait a few moments for the connection to synchronize. The VR view will then appear live on the TV screen.
 
 > [!NOTE]
 > If "Tv in Kantoor" does not appear, double-check that the Google TV Streamer is awake and on the same Wi-Fi network as the headset.
 
 ---
 
-## 📈 Future Improvements & Maintenance
+##  Future Improvements & Maintenance
 ### Future Goals
 *   Integrate AI-based storytelling (video).
 *   Expand 3D asset library for deeper immersion.
@@ -80,6 +91,3 @@ To stream the Meta Quest 3 view to the TV so others can follow along:
 
 **Product Owner**  
 _Pedro Calleeuw_
-
-
-ok is dit in orde ?
