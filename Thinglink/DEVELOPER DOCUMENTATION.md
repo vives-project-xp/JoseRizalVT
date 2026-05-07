@@ -30,6 +30,11 @@ The project assets are organized as follows:
 
 ---
 
+## Step by step guide Thinglink
+    **Guide:**https://www.thinglink.com/blog/getting-started-with-thinglink-a-simple-first-project-for-educators/ 
+
+---
+
 ##  Casting & VR Integration
 This project supports group viewing via the Google TV Streamer and immersive experiences using the Meta Quest 3.
 
